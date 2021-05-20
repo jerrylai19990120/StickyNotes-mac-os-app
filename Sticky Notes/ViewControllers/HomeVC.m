@@ -1,13 +1,13 @@
 //
-//  ViewController.m
+//  HomeVC.m
 //  Sticky Notes
 //
 //  Created by Jerry Lai on 2021-05-20.
 //
 
-#import "ViewController.h"
+#import "HomeVC.h"
 
-@implementation ViewController
+@implementation HomeVC
 
 - (void)viewDidLoad {
     [super viewDidLoad];
